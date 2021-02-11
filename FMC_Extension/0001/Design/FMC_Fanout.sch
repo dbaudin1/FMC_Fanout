@@ -132,4 +132,15 @@ F 5 "73251-1352" H 1700 7275 50  0001 C CNN "Manufacturer Part Number"
 $EndComp
 Text Notes 1625 7175 0    50   ~ 0
 SMA\n
+Wire Wire Line
+	1500 5825 1200 5825
+Wire Wire Line
+	1200 5825 1200 6375
+Wire Wire Line
+	1200 6375 2925 6375
+Wire Wire Line
+	2925 5825 2925 6375
+Connection ~ 2925 6375
+Wire Wire Line
+	2925 6375 2925 6450
 $EndSCHEMATC
