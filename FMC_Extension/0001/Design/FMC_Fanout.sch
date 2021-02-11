@@ -140,7 +140,4 @@ Wire Wire Line
 	1200 6375 2925 6375
 Wire Wire Line
 	2925 5825 2925 6375
-Connection ~ 2925 6375
-Wire Wire Line
-	2925 6375 2925 6450
 $EndSCHEMATC
