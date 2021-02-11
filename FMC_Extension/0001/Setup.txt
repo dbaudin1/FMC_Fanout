@@ -1,0 +1,25 @@
+--------------- Automatic Kicad Fab File Generation ---------------
+This File contains all information for generating Fabrication File
+Documentation can be found through: <Dir_to_Help> 
+Version 1.0 Beta 
+--------------- Automatic Kicad Fab File Generation ---------------
+Structure:<Variable_Description|Value>
+<Date|10/02/2021>
+<Project_Name|FMC_Fanout>
+<Project_Folder|C:\Users\dbaudin\Documents_Local\Projet\BINGO\Implementation\Electronic\FMC_Extension>
+<Claimer|Emanuel Molina>
+<Designer|David Baudin>
+<Board_Number|0001>
+<NbLayers|6>
+<Board_Thickness|1.6>
+<Micro_Vias|False>
+<Micro_Vias_Diameter|200>
+<Micro_Vias_Drill|100>
+<Blind_Vias|False>
+<IPC_Class|6>
+<IPC_Drill|E>
+<Track Width|150>(If Custom)
+<Track Space|150>(If Custom)
+<Via Drill|100>(If Custom)
+<Via Diameter|350>(If Custom)
+<Hole to Hole space|250>(If Custom)
